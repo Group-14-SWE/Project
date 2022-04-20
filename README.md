@@ -6,12 +6,7 @@ Easy Check is system that focuses more in students participation in classes. Wha
 - Getting in contact will local banks to be able to hold currency in sutdents card.
 - Getting premission from the city hall so students can get free or discounted bus trips deppending on the distance.
 - Proposing a contract to all electronic shops so the students get the disscount for any hardwear purchased. (Note, each shop has a different dsiccounted price on their products, so the students have to choose their shops deppeneding on what percentage they find more pleasing)
-- 
 
-
-
-
-
-
-# Non-Functional Requirements
+# Functional requirements.
+# Non-Functional Requirements.
 
