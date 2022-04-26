@@ -62,12 +62,17 @@ EC has 4 main types of users:
 - Users must be members or affiliated with contraced university
 - Every user must at least know on of the OS that EasyCheck can be accessed through
 - All user must be logged in before using the software
-# Dependencies.
-
-
+# Dependencies. 
+- Only CEO-s and authorized personel that are directly assigned from admins can have access to all data
+- If there aren't any avaible CEO-s trusted personel should take their place for the duration of time that at leats one CEO is avaible
+- CEO-s have the right to oversea all operation from all users and take action If they see any exploits from them
 
 
 
 # Functional requirements.
+| First Header  | Second Header | Third | Priority | Date Rvwd | SME reviewd/approved |
+| ------------- | ------------- | ----- | -------- | --------- | -------------------- | 
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 # Non-Functional Requirements.
 
