@@ -124,4 +124,6 @@ EC has 4 main types of users:
 | BR_50  | a | 1  | 2 | 3 | 4 |
 
 # Non-Functional Requirements.
+# ERD.
+![image (2)](https://user-images.githubusercontent.com/78169319/165401129-54e62b8c-e094-4791-a33b-95e6d0900dce.png)
 
