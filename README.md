@@ -1,6 +1,5 @@
 ![newlogo](https://user-images.githubusercontent.com/78169319/163966659-1fabdeaa-164f-45aa-82c0-3f6408d8e9f9.png)
 
->Check Use Cases [here](https://github.com/Group-14-SWE/Project/blob/main/Diagrams/DFD.md)
 
 
 # Brief description. 
@@ -127,14 +126,14 @@ EC has 4 main types of users:
 | BR_49  | a | 1  | 2 | 3 | 4 |
 | BR_50  | a | 1  | 2 | 3 | 4 |
 
+
 # Non-Functional Requirements.
 # Product Requirements.
 - EC will only be avaible for Android and IOS phone systems.
 - The system will be easy to use so the user won't have any problems during the whole time he/she is still a student or an employee.
 
+> Check Use Cases [here !](https://github.com/Group-14-SWE/Project/blob/main/Diagrams/DFD.md)</br>
+> Check Dfd [here !](https://github.com/Group-14-SWE/Project/blob/main/Diagrams/DFD.md)</br>
 
 
 
-# ERD.
-![image (2)](https://user-images.githubusercontent.com/78169319/165401129-54e62b8c-e094-4791-a33b-95e6d0900dce.png)
-[http://www.google.com]
