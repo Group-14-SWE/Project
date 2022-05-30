@@ -132,8 +132,14 @@ EC has 4 main types of users:
 - EC will only be avaible for Android and IOS phone systems.
 - The system will be easy to use so the user won't have any problems during the whole time he/she is still a student or an employee.
 
+> Check Activity Diagram [here !](https://github.com/Group-14-SWE/Project/blob/main/Diagrams/Activity%20Diagrams.md)</br>
+> Check BPMN [here !](https://github.com/Group-14-SWE/Project/blob/main/Diagrams/BPMN.md)</br>
+> Check DFD [here !](https://github.com/Group-14-SWE/Project/blob/main/Diagrams/DFD.md)</br>
+> Check ERD [here !](https://github.com/Group-14-SWE/Project/blob/main/Diagrams/ERD.md)</br>
+> Check Sequence Diagrams [here !](https://github.com/Group-14-SWE/Project/blob/main/Diagrams/Sequence%20Diagrams.md)
+> Check State Diagrams [here !](https://github.com/Group-14-SWE/Project/blob/main/Diagrams/State%20Diagrams.md)</br>
 > Check Use Cases [here !](https://github.com/Group-14-SWE/Project/blob/main/Diagrams/DFD.md)</br>
-> Check Dfd [here !](https://github.com/Group-14-SWE/Project/blob/main/Diagrams/DFD.md)</br>
+
 
 
 
