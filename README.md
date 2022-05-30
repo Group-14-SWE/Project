@@ -136,7 +136,7 @@ EC has 4 main types of users:
 > Check BPMN [here !](https://github.com/Group-14-SWE/Project/blob/main/Diagrams/BPMN.md)</br>
 > Check DFD [here !](https://github.com/Group-14-SWE/Project/blob/main/Diagrams/DFD.md)</br>
 > Check ERD [here !](https://github.com/Group-14-SWE/Project/blob/main/Diagrams/ERD.md)</br>
-> Check Sequence Diagrams [here !](https://github.com/Group-14-SWE/Project/blob/main/Diagrams/Sequence%20Diagrams.md)
+> Check Sequence Diagrams [here !](https://github.com/Group-14-SWE/Project/blob/main/Diagrams/Sequence%20Diagrams.md)</br>
 > Check State Diagrams [here !](https://github.com/Group-14-SWE/Project/blob/main/Diagrams/State%20Diagrams.md)</br>
 > Check Use Cases [here !](https://github.com/Group-14-SWE/Project/blob/main/Diagrams/DFD.md)</br>
 
