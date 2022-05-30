@@ -32,7 +32,7 @@ EC has 4 main types of users:
 - Register new workers and gather all working-hours to put them on the database
 - Arrange meetings with universities representative
 ### Facilities Managers
-### Facilities managers (Teachers) oversee the physical building where EasyCheck is applied. They make sure the system is up to date with the university buildig,new books added to the library,timetable. Additionally, they oversee the security of the building and any software exploit.
+### Facilities managers (Teachers/Contracted workers) oversee the physical building where EasyCheck is applied. They make sure the system is up to date with the university buildig,new books added to the library,timetable. Additionally, they oversee the security of the building and any software exploit.
 > The task that Facilities Managers can perform are as following:
 - Update the timetable
 - Make new announcements that are school related
