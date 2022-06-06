@@ -27,3 +27,16 @@
 
 # Student Checks Timetable
 ![timetable st](https://user-images.githubusercontent.com/78169319/172202162-d1e8ab12-e7cf-4f79-a154-fda8103d0416.png)
+
+# Studnet Check Attandance 
+![att](https://user-images.githubusercontent.com/78169319/172220410-91a9646e-e571-47dd-b15e-36c869428d15.jpeg)
+
+# Student Checks Bus Timetable 
+![bust](https://user-images.githubusercontent.com/78169319/172220475-92f6f6f3-60f4-45ec-be80-d9ab3021d3f0.jpeg)
+
+# Student Checks for avaiable disscounts 
+![discp](https://user-images.githubusercontent.com/78169319/172220534-5b9161e9-953e-485e-9afe-79fb1d390a11.jpeg)
+
+# Studnet Checks Balance 
+![balance](https://user-images.githubusercontent.com/78169319/172220574-519f9893-312f-4343-9368-62af0f855c92.jpeg)
+
