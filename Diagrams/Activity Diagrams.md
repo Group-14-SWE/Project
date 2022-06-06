@@ -25,3 +25,5 @@
 # Student Enter Class 
 ![students enters school_class](https://user-images.githubusercontent.com/78169319/172201169-2d78b9f0-8043-47d3-a91a-62b3e14ec26c.png)
 
+# Student Checks Timetable
+![timetable st](https://user-images.githubusercontent.com/78169319/172202162-d1e8ab12-e7cf-4f79-a154-fda8103d0416.png)
