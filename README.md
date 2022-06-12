@@ -70,6 +70,9 @@ EC has 4 main types of users:
 - If there aren't any avaible CEO-s trusted personel should take their place for the duration of time that at leats one CEO is avaible
 - CEO-s have the right to oversea all operation from all users and take action If they see any exploits from them
 
+# Interface Preview 
+![Desktop - 3](https://user-images.githubusercontent.com/78169319/173233426-9add1f23-50f8-4984-b889-13c971018b3e.png)
+
 
 
 # Functional requirements.
