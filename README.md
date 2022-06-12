@@ -99,12 +99,7 @@ EC has 4 main types of users:
 | BR_22  | Admins and administrative technicians can make annoucments for new sfotware updates. | Update and information  | 2 |  |  |
 | BR_23  | Admins and administrative technicians can update the software according to users needs | Update and organization  | 1 |  |  |
 | BR_24  | The sfotware will always have a backup for users who forget their passowrds and emails | This will keep users accounts safe from getting lost | 1 |  |  |
-| BR_25  | a | 1  | 2 | 3 | 4 |
-| BR_26  | a | 1  | 2 | 3 | 4 |
-| BR_27  | a | 1  | 2 | 3 | 4 |
-| BR_28  | a | 1  | 2 | 3 | 4 |
-| BR_29  | a | 1  | 2 | 3 | 4 |
-| BR_30  | a | 1  | 2 | 3 | 4 |
+
 
 
 
