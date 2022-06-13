@@ -3,72 +3,80 @@
 
 
 # Brief description. 
-Easy Check is system that focuses more in students participation in classes. What we mean by that is, students can use their students cards to check in for attendance. Not only that but the software is integrated to be used for other functions. Easy check can be used to hold currency for the student and be used inside and outside the university campus. A student can use EC (Easy Check) to purchase a drink or something to eat on all markets that are partnered with EC, not only that, but all EC users can get discounts in electronic shops, for example: getting a 15% discount on a new laptop.
+Easy Check is system that focuses more in students’ participation in classes. What we mean by that is, students can use their students’ cards to check in for attendance. Not only that but the software is integrated to be used for other functions. Easy check can be used to hold currency for the student and be used inside and outside the university campus. A student can use EC (Easy Check) to purchase a drink or something to eat on all markets that are partnered with EC, not only that, but all EC users can get discounts in electronic shops, for example: getting a 15% discount on a new laptop.
 # Requirements.
-- Proposing a contract to all big markets in the country so EC (Easy Check) won't have any problem with purchases and make the transaction easy!
-- Getting in contact will local banks to be able to hold currency in sutdents card.
-- Getting premission from the city hall so students can get free or discounted bus trips deppending on the distance.
-- Proposing a contract to all electronic shops so the students get the disscount for any hardwear purchased. (Note, each shop has a different dsiccounted price on their products, so the students have to choose their shops deppeneding on what percentage they find more pleasing)
+-	Proposing a contract to all big markets in the country so EC (Easy Check) won't have any problem with purchases and make the transaction easy!
+-	Getting in contact will locally banks to be able to hold currency in students card.
+-	Getting permission from the city hall so students can get free or discounted bus trips depending on the distance.
+-	Proposing a contract to all electronic shops so the students get the discount for any hard ware purchased. (Note, each shop has a different discounted price on their products, so the students have to choose their shops depending on what percentage they find more pleasing)
 
 # User Characteristics. 
 EC has 4 main types of users:
-- Administrators
-- Administrative Technicians
-- Facilities Manager
-- Students
+-	Administrators
+-	Administrative Technicians
+-	Facilities Manager
+-	Students
+
 
 ### Administrators:
-#### The administrators are the CEO-s of EasyCheck, F.S , N.K and X.L. They are the persons that are in charge of everything and where a data,bugs and new features.That means they are in charge of changing the software according to the end user's request.
-> The task's that admins can do are as following :
-- Create/Delete/Edit profiles of employees
-- Checking payments for all employees
-- See all connected devices
-- Check the traffic
-- Control all the financial records daily/monthly/yearly
-- Chcek any misbehaviour of the softwware
+#### The administrators are the CEO-s of Easy Check, F.S, N.K and X.L. They are the persons that are in charge of everything and where a data, bugs and new features. That means they are in charge of changing the software according to the end user's request.
+> The task's that admins can do are as following:
+-	Create/Delete/Edit profiles of employees
+-	Checking payments for all employees
+-	See all connected devices
+-	Check the traffic
+-	Control all the financial records daily/monthly/yearly
+-	Check any misbehavior of the software
+
 
 ### Administrative Technicians:
 ### Administrative technicians typically produce documents for correspondence, reports, and memos, among others. They are also in charge of filing, both with a computer and manually. They also have management responsibilities.
-> The task that Aministrative Technicians can perform are as following:
-- Report to the admin all bugs that are submited from the software
-- Check the amount of bugs monthly and make a graph of it
-- Register new workers and gather all working-hours to put them on the database
-- Arrange meetings with universities representative
+>The task that Administrative Technicians can perform are as following:
+-	Report to the admin all bugs that are submitted from the software
+-	Check the number of bugs monthly and make a graph of it
+-	Register new workers and gather all working-hours to put them on the database
+-	Arrange meetings with universities representative
+
 ### Facilities Managers
-### Facilities managers (Teachers/Contracted workers) oversee the physical building where EasyCheck is applied. They make sure the system is up to date with the university buildig,new books added to the library,timetable. Additionally, they oversee the security of the building and any software exploit.
+### Facilities managers (Teachers/Contracted workers) oversee the physical building where Easy Check is applied. They make sure the system is up to date with the university building, new books added to the library, timetable. Additionally, they oversee the security of the building and any software exploit.
 > The task that Facilities Managers can perform are as following:
-- Update the timetable
-- Make new announcements that are school related
-- Update the books section of the systen
-- Report any bugs to Aministrative Technicians
+-	Update the timetable
+-	Make new announcements that are school related
+-	Update the books section of the system
+-	Report any bugs to Administrative Technicians
+
 ###  Students
-### Students (the main users of the system) are the reason this system was created and their job is to use EC (EasyCheck) to the full extend.
-> The task that Students can perform are as following:
-- Check timetabe
-- Check new books aded to the library
-- Applay for new Students Clubs
-- Check all annooucments posted from the school/admins
-- Check their balance
-- Adding funds to the balance
-- Check all discounts from partnered shops
-- Check the time of bus stops
-- Check attandace
-- Create a group chat with their friends
-- Request an appointment with a teacher at a given time
+### Students (the main users of the system) are the reason this system was created and their job is to use EC (Easy Check) to the full extend.
+>The task that Students can perform are as following:
+-	Check timetable
+-	Check new books added to the library
+-	Apply for new Students Clubs
+-	Check all announcements posted from the school/admins
+-	Check their balance
+-	Adding funds to the balance
+-	Check all discounts from partnered shops
+-	Check the time of bus stops
+-	Check attendance
+-	Create a group chat with their friends
+-	Request an appointment with a teacher at a given time
+
+
 # Assumptions.
-- The CEO-s will have all time access to every data that is submited by Administrative Technicians and Facilities Managers
-- The devices that the system will be operable for phone users must be IOS/Android and for pc users must be Windos,IOS and Linux OS
-- Good internet connection 
-- Every importat announcment made by CEO-s will be displayed in real time for all users
-- 
+-	The CEO-s will have all time access to every data that is submitted by Administrative Technicians and Facilities Managers
+-	The devices that the system will be operable for phone users must be IOS/Android and for pc users must be Windows, IOS and Linux OS
+-	Good internet connection
+-	Every important announcement made by CEO-s will be displayed in real time for all users
+
 # Constraints.
-- Users must be members or affiliated with contraced university
-- Every user must at least know on of the OS that EasyCheck can be accessed through
-- All user must be logged in before using the software
+-	Users must be members or affiliated with contracted university
+-	Every user must at least know one of the OS that Easy Check can be accessed through
+-	All user must be logged in before using the software
+
 # Dependencies. 
-- Only CEO-s and authorized personel that are directly assigned from admins can have access to all data
-- If there aren't any avaible CEO-s trusted personel should take their place for the duration of time that at leats one CEO is avaible
-- CEO-s have the right to oversea all operation from all users and take action If they see any exploits from them
+-	Only CEO-s and authorized personnel that are directly assigned from admins can have access to all data
+-	If there aren't any available CEO-s trusted personnel should take their place for the duration of time that at least one CEO is available
+-	CEO-s have the right to oversee all operation from all users and take action If they see any exploits from them
+
 
 # Interface Preview 
 ![Desktop - 3](https://user-images.githubusercontent.com/78169319/173233426-9add1f23-50f8-4984-b889-13c971018b3e.png)
@@ -108,50 +116,54 @@ EC has 4 main types of users:
 
 # Non-Functional Requirements.
 # Product Requirements.
-- EC will only be avaible for Android and IOS phone systems.
-- The system will be easy to use so the user won't have any problems during the whole time he/she is still a student or an employee.
-- The administrator page  will be organized in different sectors for each of company’s processes including: attandance, finance, security, chat etc. It is thought that when the administrator will be logged in, all the sites where he has access will be displayed in the middle of the screen separated in squares, so not to create any confusion. The same thing will be with the managers page. 
+-	EC will only be available for Android and IOS phone systems.
+-	The system will be easy to use so the user won't have any problems during the whole time he/she is still a student or an employee.
+-	The administrator page will be organized in different sectors for each of company’s processes including: attendance, finance, security, chat etc. It is thought that when the administrator will be logged in, all the sites where he has access will be displayed in the middle of the screen separated in squares, so not to create any confusion. The same thing will be with the manager’s page.-
 
 # Accessibility
-> EC can be used everywhere as long as there is internet connection and the device has sufficient power suply.
+> EC can be used everywhere as long as there is internet connection and the device has sufficient power supply.
 # Responsiveness
-> The application is thought to be extremely responsive and fast too.
+> The application is thought to be extremely responsive and fast too..
 # Flexibility
-> The application is thought to adapt the updates very easy but also deal with errors/problems as quick as possible.
+> The application is thought to adapt the updates very easy but also deal with errors/problems as quick as possible
 # Effectiveness
 > 1.	This application will be easy to use and understand and as user-friendly as possible.
 > 2.	In case the user deals with an error, the messages will be easy to understand and also associated with a step-by-step procedure in order to get rid of it.
 # Efficiency:
-> 1.	The application is going to be very efficient and 0 time-consuming, meaning that each user will fulfill his tasks super fast and in the best case with no errors/warnings at all.
+> 1.	The application is going to be very efficient and 0 time-consuming, meaning that each user will fulfill his tasks super-fast and in the best case with no errors/warnings at all.
 > 2.	The interface will also be very easy and user-friendly with no complicated buttons or actions.
+
 # Performance Requirements
 > 1.	Since EC is going to be installed in a computer/laptop/mobile, the data will be delivered in real-time, and it will only be accessible inside company’s environment it will require good internet connection, and new tech devices in order to reach its best performance, but also with mid-range devices it will work just fine.
 > 2.	The bigger the space, the more will be the users therefore the better the performance.
+
 # Space Requirements
 > 1.	The app will be able to handle at least 1000 users at a time, and the database system should handle at least 600-800 users at any given time.
 > 2.	Maximum user load: 400.
 > 3.	Per-user memory requirement: 2-4 GB RAM.
-
 # Availability
 > 1.	Internet access is necessary.
 > 2.	The application will be available 24/7.
 # Maintanence
-> 1.	The app will be updated when necessary in order to process all the operations in real time.
-> 2.	In case the system will crash, the app should not display anything to the user except an error message “Somthing intresting is happening! Please come back to check what has happend ! ”
-> 1.	If the crash happens the system should start as soon as possible.
+> 1.	The app will be updated, when necessary, in order to process all the operations in real time.
+> 2.	In case the system will crash, the app should not display anything to the user except an error message “Something interesting is happening! Please come back to check what has happened!”
+> 3.	If the crash happens the system should start as soon as possible.
+
 # Integrity
 > 1.	The personal information must be available only for the super-admin.
 > 2.	The super-admin account is the only one responsible for adding/deleting new employee accounts.
 > 3.	All users should provide personal credentials to log in into the system and should be authenticated before accessing their own profiles.
 
+
 # Security
 > 1.	When the super-admin creates a new profile, an informative email must be sent to the employee to let him know about the action.
-> 2.	When a new user is logged in, a randomly generated password must be sent to it by the sadmin email.
-> 3. A special encrypted code will be given to students card, that will make it hard to clone the card 
-> 4. If the card is decrypted the system will check if the card has enterd the school before and check if it has left deppendig on the occasion the system will decicde if the card will pass or not.
+> 2.	When a new user is logged in, a randomly generated password must be sent to it by the admin email.
+> 3.	A special encrypted code will be given to student’s card, that will make it hard to clone the card
+> 4.	If the card is decrypted the system will check if the card has entered the school before and check if it has left depending on the occasion the system will decide if the card will pass or not.
+
 
 # Domain Requirements
-EC is going to be an application that can be easily downloadable from both AppStore and PlayStore, and is going to be an organizational app exclusively for the “Easy Check”.The purpose of the sofware is to make the student life more easy.The application is thought to be divided in 2 parts for use, one use will be from the company workers (CEO, managers, employees) and the other one will be for clients but with a limited actions (like viewing attandance and checking discounts). The app will be mostly student-use oriented. In order to access the functionalities of the app the user must firstly be logged in with the email that they have been registered to the school and the whole data will be manipulated into EC’s servers.
+EC is going to be an application that can be easily downloadable from both AppStore and Play Store, and is going to be an organizational app exclusively for the “Easy Check”. The purpose of the software is to make the student life easier. The application is thought to be divided in 2 parts for use, one use will be from the company workers (CEO, managers, employees) and the other one will be for clients but with a limited actions (like viewing attendance and checking discounts). The app will be mostly student-use oriented. In order to access the functionalities of the app the user must firstly be logged in with the email that they have been registered to the school and the whole data will be manipulated into EC’s servers.
 
 
 
