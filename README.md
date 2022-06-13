@@ -113,6 +113,7 @@ EC has 4 main types of users:
 - The administrator page  will be organized in different sectors for each of company’s processes including: attandance, finance, security, chat etc. It is thought that when the administrator will be logged in, all the sites where he has access will be displayed in the middle of the screen separated in squares, so not to create any confusion. The same thing will be with the managers page. 
 
 # Accessibility
+> EC can be used everywhere as long as there is internet connection and the device has sufficient power suply.
 # Responsiveness
 > The application is thought to be extremely responsive and fast too.
 # Flexibility
