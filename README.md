@@ -264,7 +264,7 @@ EC is going to be an application that can be easily downloadable from both AppSt
 > Chek Rational Schema [here !](https://github.com/Group-14-SWE/Project/blob/main/Diagrams/Rational%20Schema.md)</br>
 > Check Sequence Diagrams [here !](https://github.com/Group-14-SWE/Project/blob/main/Diagrams/Sequence%20Diagrams.md)</br>
 > Check State Diagrams [here !](https://github.com/Group-14-SWE/Project/blob/main/Diagrams/State%20Diagrams.md)</br>
-> Check Use Cases [here !](https://github.com/Group-14-SWE/Project/blob/main/Diagrams/DFD.md)</br>
+> Check Use Cases [here !](https://github.com/Group-14-SWE/Project/blob/main/Diagrams/Use%20Case.md)</br>
 
 
 
