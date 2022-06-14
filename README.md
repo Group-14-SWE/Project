@@ -274,6 +274,7 @@ EC is going to be an application that can be easily downloadable from both AppSt
 > Check Communication Diagrams [here !](https://github.com/Group-14-SWE/Project/blob/main/Diagrams/Communication.md)</br>
 > Check Component Diagram [here !](https://github.com/Group-14-SWE/Project/blob/main/Diagrams/Component%20Diagrams.md)</br>
 > Check DFD [here !](https://github.com/Group-14-SWE/Project/blob/main/Diagrams/DFD.md)</br>
+> Check Deployment Diagrams [here !](https://github.com/Group-14-SWE/Project/blob/main/Diagrams/Deployment%20Diagrams.md)</br>
 > Check ERD [here !](https://github.com/Group-14-SWE/Project/blob/main/Diagrams/ERD.md)</br>
 > Check Object Diagrams [here !](https://github.com/Group-14-SWE/Project/blob/main/Diagrams/Object%20Diagrams.md)</br>
 > Check Package Diagram [here !](https://github.com/Group-14-SWE/Project/blob/main/Diagrams/Package%20Diagram.md)</br>
