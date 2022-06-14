@@ -270,7 +270,7 @@ EC is going to be an application that can be easily downloadable from both AppSt
 # Quick Links to Diagrams. 
 > Check Activity Diagrams [here !](https://github.com/Group-14-SWE/Project/blob/main/Diagrams/Activity%20Diagrams.md)</br>
 > Check BPMN [here !](https://github.com/Group-14-SWE/Project/blob/main/Diagrams/BPMN.md)</br>
-> Check Class Diagrams [here !](https://github.com/Group-14-SWE/Project/blob/main/Diagrams/Class%20Diagram)</br>
+> Check Class Diagrams [here !](https://github.com/Group-14-SWE/Project/blob/main/Diagrams/Class%20Diagram.md)</br>
 > Check Communication Diagrams [here !](https://github.com/Group-14-SWE/Project/blob/main/Diagrams/Communication.md)</br>
 > Check Component Diagram [here !](https://github.com/Group-14-SWE/Project/blob/main/Diagrams/Component%20Diagrams.md)</br>
 > Check DFD [here !](https://github.com/Group-14-SWE/Project/blob/main/Diagrams/DFD.md)</br>
